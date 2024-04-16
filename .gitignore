@@ -1,0 +1,6 @@
+venv
+.coverage
+.idea
+db.sqlite3
+*.pyc
+.DS_Store
